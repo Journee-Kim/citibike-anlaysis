@@ -2,7 +2,7 @@ Tool used: Power BI
 
 ### Dashboard Overview
 
-![*Citibike Bike Sharing Analysis Dashboard Main*    ](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca4774d5-012e-4399-93d3-4753256fe9cc/027cd9ce-20ba-4f0c-b57d-2b2d2c798da5/Untitled.png)
+![Untitled (6)](https://github.com/Youyeon-Kim/citibike-anlaysis/assets/60176735/7b20e282-cf56-4ac4-9678-031fc0929869)
 
 *Citibike Bike Sharing Analysis Dashboard Main*    
 
