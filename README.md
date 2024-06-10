@@ -6,11 +6,11 @@ Tool used: Power BI
 
 *Citibike Bike Sharing Analysis Dashboard Main*    
 
-![*Citibike Bike Sharing Analysis Dashboard - User Analysis*   ](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca4774d5-012e-4399-93d3-4753256fe9cc/26ef3f20-fe96-459b-9bfb-bc0d248c0ebd/Untitled.png)
+![Untitled (7)](https://github.com/Youyeon-Kim/citibike-anlaysis/assets/60176735/0bb40e33-ff5b-42b9-a662-0567d6d61a09)
 
 *Citibike Bike Sharing Analysis Dashboard - User Analysis*   
 
-![*Citibike Bike Sharing Analysis Dashboard – Station/Ride Analysis*](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca4774d5-012e-4399-93d3-4753256fe9cc/209079ba-2fa1-4cab-8dc5-dc3493ef9b60/Untitled.png)
+![Untitled (8)](https://github.com/Youyeon-Kim/citibike-anlaysis/assets/60176735/b9875c6c-f507-4634-9b7b-7c10577f8064)
 
 *Citibike Bike Sharing Analysis Dashboard – Station/Ride Analysis*
 
